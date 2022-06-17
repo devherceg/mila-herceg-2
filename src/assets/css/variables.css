@@ -1,0 +1,33 @@
+.color1 {
+  color: #5c453f;
+}
+.color2 {
+  color: #d1837e;
+}
+.color3 {
+  color: #ce5f5f;
+}
+.bg-color1 {
+  background-color: #5c453f !important;
+}
+.bg-color2 {
+  background-color: #d1837e !important;
+}
+.bg-color3 {
+  background-color: #ce5f5f !important;
+}
+.font1 {
+  font-family: 'Open Sans', sans-serif;
+}
+.font2 {
+  font-family: 'Great Vibes', cursive;
+}
+.bold {
+  font-weight: bold;
+}
+.bg-cover {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
