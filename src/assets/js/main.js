@@ -42,7 +42,7 @@ $(window).load(function(){
 $(document).ready(function(){
 
 //=====>  Countdown (Edit this with your own date)  <====
-$("#countdown").countdown("2022/02/22 15:10:56", function(event) {
+$("#countdown").countdown("2022/07/02 15:00:00", function(event) {
   var $this = $(this).html(event.strftime(''
      + '<div class="countdown-col-wrapper col-xs-3"><div class="countdown-col"><span class="countdown-time"> %-D </span> Days </div></div> '
      + '<div class="countdown-col-wrapper col-xs-3"><div class="countdown-col"><span class="countdown-time"> %H </span> Hours </div></div>'
